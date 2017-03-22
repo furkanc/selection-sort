@@ -1,2 +1,2 @@
-# Scheme-selection-sort
+# Racket Selection Sort
 Recursive Selection Sort implementation
